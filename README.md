@@ -34,5 +34,4 @@
 - Keras
 - Augmentor
 
-## Contact
-Created by [@supritharavi] - feel free to contact me!
+
